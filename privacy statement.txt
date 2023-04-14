@@ -1,0 +1,11 @@
+Privacy statement：
+Ads:
+This APP contains advertisements, which are integrated in the banner of the admob platform
+
+privacy policy：
+This APP does not collect or report any user data.
+
+The permission to apply is：
+<uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:naprivacy policyme="android.permission.INTERNET" />
