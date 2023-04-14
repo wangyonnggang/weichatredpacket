@@ -1,0 +1,18 @@
+Privacy statement：
+
+This APP contains advertisements, which are integrated from admob
+
+privacy policy：
+
+This APP does not collect or report any user data. it is a offline tool app
+
+
+The permissions to apply are here： (INTERNET permission is used for requesting admob ads)
+
+<uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:naprivacy policyme="android.permission.INTERNET" />
+    
+    
+    
+    
