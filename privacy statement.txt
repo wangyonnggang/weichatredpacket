@@ -1,11 +1,8 @@
-Privacy statement：
-Ads:
-This APP contains advertisements, which are integrated in the banner of the admob platform
-
 privacy policy：
-This APP does not collect or report any user data.
 
-The permission to apply is：
-<uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
-    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-    <uses-permission android:naprivacy policyme="android.permission.INTERNET" />
+This APP(App ID:108124165) is a offline app , and does not collect,report or share any user data.
+it integrated huawei ads kit, need internet permission to fetch the ads. applie in the app alrelady
+Petal ads kit will collect the OAID to send it to Petal sever, and used to distrubute ads
+
+
+
